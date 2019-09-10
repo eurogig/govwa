@@ -6,6 +6,8 @@ GoVWA (Go Vulnerable Web Application) is a web application developed to help the
 ---
 Since GoVWA is a web application that contains a vulnerability, **never upload govwa to web hosting that can be accessed publicly, because it can cause your server to get hacked**. As a suggestion to use GoVWA locally.
 
+#### GOSEC TESTING ONLY
+
 #### How To Install GoVWA
 ---
 #### Installing golang
